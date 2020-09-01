@@ -6,3 +6,4 @@ OSX based.
 - [iTerm2](https://iterm2.com/)
   - [oh-my-zsh](https://ohmyz.sh/#install)
 - [VS Code](https://code.visualstudio.com/)
+- [Alfred](https://www.alfredapp.com/)
