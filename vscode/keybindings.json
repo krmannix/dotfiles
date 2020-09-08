@@ -77,7 +77,7 @@
     "when": "editorTextFocus"
   },
   {
-    "key": "shift+cmd+",
+    "key": "shift+cmd+/",
     "command": "workbench.view.explorer"
   },
   {
@@ -196,6 +196,21 @@
   {
     "key": "ctrl+shift+right",
     "command": "-editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+k",
+    "command": "editor.action.deleteLines",
+    "when": "textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+cmd+l",
+    "command": "editor.action.insertCursorAtEndOfEachLineSelected",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+i",
+    "command": "-editor.action.insertCursorAtEndOfEachLineSelected",
     "when": "editorTextFocus"
   }
 ]
