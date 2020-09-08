@@ -7,3 +7,7 @@ OSX based.
   - [oh-my-zsh](https://ohmyz.sh/#install)
 - [VS Code](https://code.visualstudio.com/)
 - [Alfred](https://www.alfredapp.com/)
+
+## Setup
+- [homebrew](https://brew.sh/)
+- [sbt](`brew install sbt`)
