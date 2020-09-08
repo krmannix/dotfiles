@@ -11,3 +11,6 @@ OSX based.
 ## Setup
 - [homebrew](https://brew.sh/)
 - [sbt](`brew install sbt`)
+
+## Development
+- Postgres (`brew install postgresql`)
