@@ -11,7 +11,7 @@ OSX based.
 
 ## Setup
 - [homebrew](https://brew.sh/)
-- [sbt](`brew install sbt`)
+- [sbt](https://www.scala-sbt.org/) (`brew install sbt`)
 
 ## Development
 - Postgres (`brew install postgresql`)
