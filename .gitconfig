@@ -1,0 +1,9 @@
+[pager]
+  branch = false
+[push]
+  default = simple
+[alias]
+  unstage = reset HEAD --
+  s = status -sb
+[core]
+  excludesfile = ~/.gitignore
