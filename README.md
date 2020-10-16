@@ -13,6 +13,7 @@ OSX based.
 - [homebrew](https://brew.sh/)
 - [sbt](https://www.scala-sbt.org/) (`brew install sbt`)
 - [rvm](https://rvm.io/)
+- [nvm](https://github.com/nvm-sh/nvm)
 
 ## Development
 - Postgres (`brew install postgresql`)
